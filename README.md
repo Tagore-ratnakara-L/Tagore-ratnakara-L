@@ -1,8 +1,7 @@
 <h1 align="center">Hi there👋, I'm Ratnakara Rao</h1>
 <h3 align="center">A dynamic QA Analyst and Automation Test Engineer</h3>
 
-<img align="right" alt="QA Testing" width="400" src="![image](https://github.com/Tagore-ratnakara-L/Tagore-ratnakara-L/assets/159464320/ef9bd717-e247-4174-b334-91180ae7c40c)
-">
+<img align="right" alt="QA Testing" height="280" width="300" src="![image](https://github.com/Tagore-ratnakara-L/Tagore-ratnakara-L/assets/159464320/a5583bb9-48a5-405a-98b2-deaf93bc8a42)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tagore-ratnakara-l&label=Profile%20views&color=0e75b6&style=flat" alt="tagore-ratnakara-l" /> </p>
 
